@@ -1,0 +1,38 @@
+.newsLetter {
+  background-image: url("../img/aviao.png");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: auto;
+  color: #ffffff;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  width: 100%;
+}
+
+.newsL_texto__titulo {
+  font-size: 2rem;
+  font-weight: bold;
+  margin-bottom: 0.2rem;
+}
+
+#email {
+  width: 400px;
+  padding: 0.5rem;
+  border-radius: 10px;
+  border-style: none;
+}
+
+.btn_newsL {
+  background-color: #464993;
+  color: #ffffff;
+  padding: .5rem;
+  align-items: center;
+  border-radius: 5px;
+  border: none;
+  width: 100px;
+}
+
+.btn_newsL:hover {
+  background-color: #0c0c0c;
+  transition: 0.75s;
+}

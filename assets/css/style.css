@@ -1,0 +1,10 @@
+.app {
+    background: #F9F9F9;
+    font-family: 'Roboto Mono', monospace;
+    font-size: medium;
+}
+
+.container {
+	margin: 0 auto;
+	width: 90%;
+}
