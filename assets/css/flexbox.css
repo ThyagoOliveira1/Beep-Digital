@@ -67,3 +67,16 @@
     display: flex;
     justify-content: space-between;
 }
+
+@media screen and (max-width: 768px) {
+    .cabecalho .container {
+        flex-direction: column;
+    }
+    
+    .contato_header {
+        display: flex;
+        justify-content: space-between;
+        flex-direction: column;
+    }
+}
+

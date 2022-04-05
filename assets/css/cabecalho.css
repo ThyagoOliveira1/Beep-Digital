@@ -1,5 +1,6 @@
 .cabecalho {
   color: #3f3a3d;
+  width: auto;
 }
 
 .contato_header {
@@ -9,4 +10,23 @@
 a:link {
   color: #464993;
   text-decoration: none;
+}
+
+@media screen and (max-width: 768px) {
+  .cabecalho {
+    text-align: center;
+  }
+  
+  .cabecalho_logo, .cabecalho_texto, .contato_header {
+    margin-bottom: 1rem;
+  }
+
+  .logo {
+    width: 80%;
+  }
+
+  .header_texto__titulo {
+    margin-top: .5rem;
+  }
+  
 }
