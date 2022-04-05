@@ -1,4 +1,4 @@
-# Beep-Digital
+# Total Tour - Landing Page
 
 Projeto desevolvido com o objetivo de criar uma Landing Page seguindo o protótipo disponibilizado pela empresa.
 Para a execução deste projteo, foram utilizadas as linguagens de marcação HTML 5 e de estilo CSS3, juntamente com a IDE Visual Studio Code
